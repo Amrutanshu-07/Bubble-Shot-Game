@@ -6,7 +6,8 @@ Match 3 or more bubbles of the same color to pop them, clear floating clusters, 
 ---
 
 ## Screenshot
-*(Add a screenshot here later by running the game and pressing `PrtScn`)*
+<img width="628" height="797" alt="image" src="https://github.com/user-attachments/assets/db9f4b6e-17a4-4b1c-acb4-e2e7ae65b17f" />
+
 
 ---
 
